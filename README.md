@@ -9,4 +9,4 @@ I also expanded the map and add more enemies.
 Enemy number will slightly increase when you get further.  
 New weapon will appear at Round 2, 5, 10.
 # Enjoy!
-Source code will be upload later.  
+Source code will be uploaded later.  
