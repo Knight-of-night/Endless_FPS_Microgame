@@ -10,6 +10,19 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+# My export folders
+WebGL Builds/
+WebGL Builds2/
+WebGL Builds3/
+TestBuild/
+
+# Other files
+InitCodeMarker
+webgl_sharing
+
+# VSCode
+.vscode/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
